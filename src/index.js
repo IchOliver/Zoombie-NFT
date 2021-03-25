@@ -40,3 +40,5 @@ function generateZombie(id,name,dna){
       return zombieDetails
 }
 
+
+
